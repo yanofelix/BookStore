@@ -388,3 +388,4 @@ C:\ws-study\BookListRazor\BookListRazor\obj\Debug\net5.0\BookListRazor.genruntim
 C:\ws-study\BookListRazor\BookListRazor\obj\Debug\net5.0\Razor\Pages\BookList\Index.cshtml.g.cs
 C:\ws-study\BookListRazor\BookListRazor\obj\Debug\net5.0\Razor\Pages\BookList\Create.cshtml.g.cs
 C:\ws-study\BookListRazor\BookListRazor\obj\Debug\net5.0\Razor\Pages\BookList\Edit.cshtml.g.cs
+C:\ws-study\BookListRazor\BookListRazor\obj\Debug\net5.0\Razor\Pages\BookList\Upsert.cshtml.g.cs
